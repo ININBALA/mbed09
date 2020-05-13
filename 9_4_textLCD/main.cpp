@@ -93,4 +93,4 @@ void doLocate(Arguments *in, Reply *out) {
 
    pc.printf("locate (col,row)=(%d,%d)", x, y);
 
-}
+}   
